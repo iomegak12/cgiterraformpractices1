@@ -5,3 +5,5 @@ variable "server_port" {
 variable "tags" {
   type = "map"
 }
+
+variable "key_name" {}
